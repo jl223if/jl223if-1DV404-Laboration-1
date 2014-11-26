@@ -1,0 +1,6 @@
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Fraction\Fraction\bin\Debug\Fraction.exe.config
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Fraction\Fraction\bin\Debug\Fraction.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Fraction\Fraction\bin\Debug\Fraction.pdb
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Fraction\Fraction\obj\Debug\Fraction.csprojResolveAssemblyReference.cache
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Fraction\Fraction\obj\Debug\Fraction.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\Fraction\Fraction\obj\Debug\Fraction.pdb

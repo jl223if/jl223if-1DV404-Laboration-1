@@ -1,0 +1,6 @@
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\raknaA\raknaA\bin\Debug\raknaA.exe.config
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\raknaA\raknaA\bin\Debug\raknaA.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\raknaA\raknaA\bin\Debug\raknaA.pdb
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\raknaA\raknaA\obj\Debug\raknaA.csprojResolveAssemblyReference.cache
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\raknaA\raknaA\obj\Debug\raknaA.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\raknaA\raknaA\obj\Debug\raknaA.pdb

@@ -1,0 +1,6 @@
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\NastStora\NastStora\bin\Debug\NastStora.exe.config
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\NastStora\NastStora\bin\Debug\NastStora.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\NastStora\NastStora\bin\Debug\NastStora.pdb
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\NastStora\NastStora\obj\Debug\NastStora.csprojResolveAssemblyReference.cache
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\NastStora\NastStora\obj\Debug\NastStora.exe
+P:\cfg\profile.V2\Documents\Visual Studio 2013\Projects\NastStora\NastStora\obj\Debug\NastStora.pdb
